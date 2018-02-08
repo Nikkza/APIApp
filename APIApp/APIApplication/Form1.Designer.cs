@@ -41,13 +41,13 @@
             // 
             this.Departure.AutoSize = true;
             this.Departure.BackColor = System.Drawing.Color.Transparent;
-            this.Departure.Font = new System.Drawing.Font("Old English Text MT", 48F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Departure.Font = new System.Drawing.Font("Franklin Gothic Book", 48F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Departure.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.Departure.Location = new System.Drawing.Point(86, 9);
             this.Departure.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.Departure.MinimumSize = new System.Drawing.Size(450, 54);
             this.Departure.Name = "Departure";
-            this.Departure.Size = new System.Drawing.Size(486, 114);
+            this.Departure.Size = new System.Drawing.Size(505, 120);
             this.Departure.TabIndex = 9;
             this.Departure.Text = "Departures";
             // 
@@ -67,12 +67,12 @@
             // 
             this.label1.AutoSize = true;
             this.label1.BackColor = System.Drawing.Color.Transparent;
-            this.label1.Font = new System.Drawing.Font("Lucida Calligraphy", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Font = new System.Drawing.Font("Franklin Gothic Book", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.label1.Location = new System.Drawing.Point(20, 160);
             this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(121, 31);
+            this.label1.Size = new System.Drawing.Size(99, 30);
             this.label1.TabIndex = 1;
             this.label1.Text = "Station:";
             // 
@@ -105,12 +105,12 @@
             // 
             this.Saved.AutoSize = true;
             this.Saved.BackColor = System.Drawing.Color.Transparent;
-            this.Saved.Font = new System.Drawing.Font("Lucida Calligraphy", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Saved.Font = new System.Drawing.Font("Franklin Gothic Book", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Saved.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.Saved.Location = new System.Drawing.Point(339, 160);
             this.Saved.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.Saved.Name = "Saved";
-            this.Saved.Size = new System.Drawing.Size(103, 31);
+            this.Saved.Size = new System.Drawing.Size(89, 30);
             this.Saved.TabIndex = 8;
             this.Saved.Text = "Saved:";
             // 
